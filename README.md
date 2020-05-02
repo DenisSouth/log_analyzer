@@ -17,3 +17,10 @@ https://pandao.github.io/editor.md/en.html
     Attach signal source between digital pin 2 and gnd, read output 
 
 <img src = "one_channel.jpg" alt = "one_channel.jpg" height = "300">
+
+
+
+### two_channel.ino - one channel analyzer
+    Attach signal source between digital pin 2,digital pin 3 and gnd, read output  (2 strings)
+
+<img src = "two_channel.jpg" alt = "one_channel.jpg" height = "300">
