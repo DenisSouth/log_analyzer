@@ -26,4 +26,4 @@ https://pandao.github.io/editor.md/en.html
 <img src = "two_channel.jpg" alt = "one_channel.jpg" height = "300">
 
 
-### viewer.py - pythos script to show plot
+### viewer.py - python script to show plot
